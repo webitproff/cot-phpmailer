@@ -1,6 +1,6 @@
 # PHPMailer Plugin for Cotonti Siena
 
-The PHPMailer plugin enhances email sending capabilities in Cotonti Siena by integrating the PHPMailer library (version 6.10.0). It replaces the default `cot_mail` function with a robust SMTP-based solution, adding advanced features like plugin isolation, duplicate prevention, and detailed logging. This plugin is designed for developers who need fine-grained control over email notifications in Cotonti, particularly for plugins like `comments` and `contact`.
+The PHPMailer plugin enhances email sending capabilities in [Cotonti Siena](https://github.com/Cotonti/Cotonti) by integrating the [PHPMailer](https://github.com/PHPMailer/PHPMailer) library (version 6.10.0). It replaces the default `cot_mail` function with a robust SMTP-based solution, adding advanced features like plugin isolation, duplicate prevention, and detailed logging. This plugin is designed for developers who need fine-grained control over email notifications in Cotonti, particularly for plugins like `comments` and `contact`.
 
 ## Features
 
@@ -240,7 +240,7 @@ The PHPMailer plugin enhances email sending capabilities in Cotonti Siena by int
 
 # Плагин PHPMailer для Cotonti Siena
 
-Плагин PHPMailer улучшает функционал отправки email в Cotonti Siena, интегрируя библиотеку PHPMailer (версия 6.10.0). Он заменяет стандартную функцию `cot_mail` на мощное решение на основе SMTP, добавляя продвинутые возможности, такие как изоляция плагинов, защита от дублирования писем и детальное логирование. Плагин создан для разработчиков, которым нужен точный контроль над email-уведомлениями в Cotonti, особенно для плагинов `comments` и `contact`.
+Плагин PHPMailer улучшает функционал отправки email в [Cotonti Siena](https://github.com/Cotonti/Cotonti), интегрируя библиотеку [PHPMailer](https://github.com/PHPMailer/PHPMailer) (версия 6.10.0). Он заменяет стандартную функцию `cot_mail` на мощное решение на основе SMTP, добавляя продвинутые возможности, такие как изоляция плагинов, защита от дублирования писем и детальное логирование. Плагин создан для разработчиков, которым нужен точный контроль над email-уведомлениями в Cotonti, особенно для плагинов `comments` и `contact`.
 
 ## Возможности
 
