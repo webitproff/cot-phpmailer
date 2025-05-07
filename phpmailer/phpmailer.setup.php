@@ -6,9 +6,9 @@ Name=PHPMailer
 Description=Отправка почты через SMTP на основе релиза PHPMailer v.6.10.0 from May 2025
 Version=3.0.0-6.10.0
 Date=05.07.2025
-Author=PHPMailer
-Copyright=
-Notes=
+Author=PHPMailer, Cotonti Team, webitproff
+Copyright=&copy; 2023-2025 webitproff
+Notes=<a href="https://github.com/webitproff" target="_blank"><strong>Extentions for Cotonti Siena CMF</strong></a>
 Auth_guests=RW
 Lock_guests=12345A
 Auth_members=RW
